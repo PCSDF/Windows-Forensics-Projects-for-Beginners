@@ -37,7 +37,7 @@ To begin these labs, ensure you are working in a **secure, isolated virtual mach
 ### 1. Prepare your Environment
 Clone the official PCSDF lab files to your forensic workstation:
 
-git clone [https://github.com/pcsdf/Windows-Forensics.git](https://github.com/pcsdf/Windows-Forensics.git)
+git clone [(https://github.com/PCSDF/Windows-Forensics-Projects-for-Beginners.git)]
 cd Windows-Forensics
 
 ----
